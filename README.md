@@ -322,24 +322,7 @@ void pojoGeneration() {
     new PojoExecute(config).execute();
 }
 ```
-
-
-## 更多支持
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://images.gitee.com/uploads/images/2020/0622/161414_eaa2819d_1407605.jpeg" width="300" height="300"  alt="WeChat"/> </td>
-    <td align="center"><img src="https://images.gitee.com/uploads/images/2021/0806/091540_66d72182_1407605.png" width="300" height="300" alt="WeChat"/></td>
-    <td align="center"><img src="https://images.gitee.com/uploads/images/2020/0707/191620_9a63fb23_1407605.png" width="300" height="300"  alt="QQ"/></td>
-  </tr>
-  <tr>
-    <td align="center">微信公众号</td>
-    <td align="center">微信交流群</td>
-    <td align="center">QQ交流群</td>
-  </tr>
-</table>
-
-+ 扫码关注官方微信公众号，第一时间尊享最新动向，回复 **screw** 获取作者微信号。
+ 
 
 ## 谁在使用
 
@@ -403,22 +386,6 @@ void pojoGeneration() {
 ## License
 
 <img src='https://www.gnu.org/graphics/lgplv3-with-text-154x68.png' alt="license">
-
-## 捐赠支持
-
-&emsp;&emsp;我们一直致力于为您提供更好的数据库文档生成器。为了**screw**更好的发展和社区更加的繁荣，我们需要您的支持。<br/>
-&emsp;&emsp;捐赠的目的是获得资金来维持我们所提供的程序和服务，捐款是基于大家自愿的原则，建议大家使用 支付宝 的"转账付款"功能，即时到帐。您的支持是鼓励我们前行的动力，无论金额多少都足够表达您这份心意。<br/>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="https://images.gitee.com/uploads/images/2020/0622/161414_c87e1846_1407605.png" width="200" height="200" /> </td>
-    <td align="center"><img src="https://images.gitee.com/uploads/images/2020/0622/161414_e953f85f_1407605.png" width="200" height="200" /></td>
-  </tr>
-  <tr>
-    <td align="center">支付宝</td>
-    <td align="center">微信</td>
-  </tr>
-</table>
 
 
 
